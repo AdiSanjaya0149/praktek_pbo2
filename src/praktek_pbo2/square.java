@@ -9,4 +9,9 @@ public class square {
         
                 
     }
+    double hitungLuas(){
+        double luas;
+        luas=sisi*sisi;
+        return luas;
+    }
 }
